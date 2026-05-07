@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Ric Patra</title>
+  <defs>
+    <linearGradient id="ric-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f47b20"/>
+      <stop offset="100%" stop-color="#db5f00"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#fff8f2"/>
+  <circle cx="64" cy="64" r="42" fill="url(#ric-gradient)" opacity="0.14"/>
+  <path d="M39 92V35h28c15 0 24 9 24 21 0 8-4 15-12 18l13 18H74L63 76H55v16H39zm16-29h10c6 0 10-3 10-8s-4-8-10-8H55v16z" fill="#db5f00"/>
+  <text x="90" y="32" font-size="12" font-family="Arial, sans-serif" fill="#db5f00">TM</text>
+</svg>
